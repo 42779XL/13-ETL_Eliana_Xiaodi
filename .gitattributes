@@ -1,0 +1,4 @@
+13-ETL_EliXiao/Resources/* filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+13-ETL_EliXiao/Resources/Detailed_Info_Posting_Add.csv filter=lfs diff=lfs merge=lfs -text
+13-ETL_EliXiao/Resources/Detailed_Price_Listing_Postings.csv filter=lfs diff=lfs merge=lfs -text
