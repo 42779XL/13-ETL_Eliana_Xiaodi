@@ -1,0 +1,21 @@
+address,lat,lng,name,opening_hours,rating,zipcode
+"1000 4th Ave, Seattle",47.6067006,-122.3325009,Seattle Public Library-Central Library,True,4.7,98101
+"Madison St &, 4th Avenue, Seattle",47.6057482,-122.3334973,Seattle central library,True,4.7,98101
+"701 5th Avenue, Seattle",47.60471260000001,-122.3304892,"Columbia Center Office Building, Food Hall and Observatory",True,4.7,98104
+"700 4th Avenue, Seattle",47.6045899,-122.33043,Sky View Observatory - Columbia Center,True,4.7,98104
+"1218 3rd Avenue, Seattle",47.6077326,-122.335366,Seattle Tower,True,4.7,98101
+"700 Seneca Street, Seattle",47.609308,-122.330903,Freeway Park,True,4.1,98101
+"705 2nd Avenue #300, Seattle",47.6029919,-122.3335622,Washington Trails Association,True,4.1,98104
+"102 Cherry Street, Seattle",47.60284619999999,-122.3340706,Beneath the Streets,True,4.6,98104
+"1116 1st Avenue, Seattle",47.6057096,-122.3375101,Grand Pacific Hotel Building,True,4.6,98101
+"614 1st Avenue, Seattle",47.602375,-122.333654,Bill Speidel's Underground Tour,True,4.5,98104
+"1008 Western Avenue, Seattle",47.6045948,-122.3375389,National Building,True,4.5,98104
+Seattle,47.6023238,-122.3336675,Seattle Underground,True,4.7,98104
+"600 1st Avenue, Seattle",47.60217169999999,-122.3334939,GCDirect,False,4.2,98104
+"1300 1st Avenue, Seattle",47.60730900000001,-122.3381331,Seattle Art Museum,True,4.6,98101
+"506 2nd Avenue, Seattle",47.6019719,-122.331726,Smith Tower,True,4.6,98104
+"506 2nd Avenue, Seattle",47.60192010000001,-122.331722,Smith Tower Observation Deck,True,4.8,98104
+"100 Yesler Way, Seattle",47.6020167,-122.3338666,Chief Seattle Fountain,True,4.3,98104
+"1400 2nd Avenue, Seattle",47.6084712,-122.3377811,Skytones,True,4.3,98101
+"409 Pike Street, Seattle",47.6102017,-122.3361795,Coliseum theater building,True,4.3,98101
+"903 Washington 519, Seattle",47.60337189999999,-122.3381227,Elliott bay waterfront,True,4.3,98104
